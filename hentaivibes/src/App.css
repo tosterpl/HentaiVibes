@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+html {
+  background-color: #ffb4ec;
+}
+.App {
+  background-color: #ffb4ec;
+  height: 100%;
+}
+
+.mainheader {
+  background-color: #ff9de6;
+  color: white;
+  padding: 2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.borel-regular {
+  font-family: "Borel", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.logo {
+  margin-bottom: 1rem;
+  padding: 10px;
+  height: 6rem;
+  background-color: rgb(210, 147, 235);
+  border-radius: 1rem;
+}
